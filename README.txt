@@ -1,32 +1,84 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 💻 My Portfolio
 
+Welcome to my portfolio!
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+I'm a Frontend Development student at **Medieinstitutet** in Stockholm, Sweden, with a Bachelor's degree in **Game Development – Design & Scripting** from Södertörn University.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+I also studied abroad at **Ritsumeikan Asia Pacific University (APU)** in Beppu, Japan, where I explored programming and studied Japanese.
 
-(* = not included)
+I'm passionate about combining creativity and technology to build engaging, responsive, and user-friendly web experiences.
 
-AJ
-aj@lkn.io | @ajlkn
+## 🚀 About This Portfolio
 
+This repository showcases my projects, technical skills, and progress as a frontend developer.
 
-Credits:
+I'm continuously learning, experimenting with new technologies, and improving my development skills.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 🛠️ Technologies
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- REST APIs and JSON
+- Responsive Web Design
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📂 Projects
+
+My portfolio includes projects I've developed during my studies and personal learning.
+
+Each project represents an opportunity to practice programming, solve problems, and explore new ideas.
+
+## 📥 How to Download and Run
+
+**Option 1: Download as ZIP**
+
+1. Click the green **Code** button at the top of this repository.
+2. Select **Download ZIP**.
+3. Extract the downloaded folder.
+4. Open the project folder in Visual Studio Code.
+5. If the project is a static website, open `index.html` in your browser.
+
+**Option 2: Clone with Git**
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+```
+
+Then navigate into the project:
+
+```bash
+cd YOUR-REPOSITORY
+```
+
+If the project uses Node.js and includes a `package.json` file, install the dependencies:
+
+```bash
+npm install
+```
+
+Then, if a development script is configured:
+
+```bash
+npm run dev
+```
+
+Follow any additional instructions provided in the individual project folders.
+
+## 🎯 My Goals
+
+My goal is to grow as a frontend developer, strengthen my programming skills, and gain practical experience building modern web applications.
+
+I'm particularly interested in creating intuitive interfaces and combining my background in game design with frontend development.
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Your LinkedIn URL]
+- **GitHub:** [Your GitHub URL]
+- **Portfolio:** [Your Portfolio URL]
+
+---
+
+⭐ Thanks for visiting my portfolio!
